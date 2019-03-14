@@ -10,7 +10,7 @@ Ashley McGee, Robert McAlmon, Ashley Patterson, Jenny Dang, Stephanie Engeling
 1. Where is crime concentrated in Austin? 
 2. Is there a correlation between housing prices and crime rate? 
 3. Which type of crime is prominent in each zip code? 
-4. Does population influence the number of reported crimes in a zip code?
+4. Does population influence the crime rate in a zip code?
 
 ## Datasets Used: 
  1. https://www.kaggle.com/zillow/zecon
@@ -58,9 +58,9 @@ Ashley McGee, Robert McAlmon, Ashley Patterson, Jenny Dang, Stephanie Engeling
 * Exemplary of national statistics that not all sexual assault cases are reported, out of a population of 950,715, only 1,140 cases of Sexual Assault were reported in 2018.
 * We extrapolated a few zip codes and noted that there was 254 instances theft in 78613, which is Cedar Park, a zip code spanning Williamson County with a population of over 48,000 people. Given that we have calculated a 14% correlation between population size and crime rate, it stands to reason that population density has no real effect on the amount of crime occurring in a given area. 
 
-###### 4. Does population influence the number of reported crimes in a zip code?
+###### 4. Does population influence the crime rate in a zip code?
 
-<img src="/ashley_patterson/crime_pop.png">
+<img src="/robert_mcalmon/crime_rate_and_population.png">
 
 * There is a weak positive (14%) correlation between population and crime rates. 
 * Zip codes that are zoned with a lot of commercial areas tend to have low populations with higher reports of crime. 
