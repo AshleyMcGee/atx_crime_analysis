@@ -6,7 +6,7 @@ Ashley McGee, Robert McAlmon, Ashley Patterson, Jenny Dang, Stephanie Engeling
 
 ### Examine the correlation between crime rate and the home prices in Austin. 
 
-## Questions
+## Questions:
 1. Where is crime concentrated in Austin? 
 2. Is there a correlation between housing prices and crime rate? 
 3. Which type of crime is prominent in each zip code? 
