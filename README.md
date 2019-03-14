@@ -33,7 +33,7 @@ Ashley McGee, Robert McAlmon, Ashley Patterson, Jenny Dang, Stephanie Engeling
 
 ###### 1. Where is crime concentrated in Austin? 
 
-<img src="/Images/crime_heatmap.png">
+<img src="/ashley_patterson/crime_heatmap.png">
 
 * Downtown has the largest concentration of crime with 8075 reports.
 * Crime reports in each zip code do not correlate to population density, as there are certain zip code with a low population but a high number of crime reports, or vice versa.
@@ -41,7 +41,7 @@ Ashley McGee, Robert McAlmon, Ashley Patterson, Jenny Dang, Stephanie Engeling
 
 ###### 2. Is there a correlation between housing prices and crime rate? 
 
-<img src="/Images/popcrimecostpercentchangeBAR.png">
+<img src="/ashley_patterson/popcrimecostpercentchangeBAR.png">
 
 * Overall, population and median home cost in Austin increased between 2011 and 2016.
 * There appears to be similarities in the rate of increase for both population and median home cost.
@@ -50,8 +50,8 @@ Ashley McGee, Robert McAlmon, Ashley Patterson, Jenny Dang, Stephanie Engeling
 
 ###### 3. Which type of crime is prominent in each zip code? 
 
-<img src="/Images/nonviolent_crimes.png">
-<img src="/Images/violent_crimes.png">
+<img src="/ashley_patterson/nonviolent_crimes.png">
+<img src="/ashley_patterson/violent_crimes.png">
 
 * The most common violent crime by zip code is Aggravated Assault.
 * The most common non-violent crime by zip code is Theft.
@@ -60,7 +60,7 @@ Ashley McGee, Robert McAlmon, Ashley Patterson, Jenny Dang, Stephanie Engeling
 
 ###### 4. Does population influence the number of reported crimes in a zip code?
 
-<img src="/Images/crime_pop.png">
+<img src="/ashley_patterson/crime_pop.png">
 
 * There is a weak positive (14%) correlation between population and crime rates. 
 * Zip codes that are zoned with a lot of commercial areas tend to have low populations with higher reports of crime. 
