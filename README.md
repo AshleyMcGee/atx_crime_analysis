@@ -5,6 +5,7 @@ Ashley McGee, Robert McAlmon, Ashley Patterson, Jenny Dang, Stephanie Engeling
 # Austin Crime Rate Analysis 
 
 ### Examine the correlation between crime rate and the home prices in Austin. 
+Finding crime patterns and trends in Austin by zip code to provide better safety and security insights for Austin residents and tourists. 
 
 ## Questions:
 1. Where is crime concentrated in Austin? 
@@ -73,3 +74,6 @@ Based on the data we have found:
 * While population and median home cost in Austin increased between 2011 and 2016 the crime rate decreased across most of the Austin zip codes.
 * Population is not a good indicator of crime because many crimes are committed in commercial areas where not as many people live. 
 * More investigation needed to determine what might affect the crime rate.
+
+## Disclaimer 
+This is not real safety & security advice, it is only based on the data and the results analyzed from the Austin crime data sample from 2011 - 2016.
